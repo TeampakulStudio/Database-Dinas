@@ -1,0 +1,77 @@
+[33mcommit d8abe922e6a77650bb2566548865334d350034f5[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: a878990 a1ac204
+Author: ratatouile <hammerhunter0@gmail.com>
+Date:   Sun Jul 30 17:45:34 2017 +0800
+
+    form tata lingkungan
+
+[33mcommit a1ac204282a82989e2dedda8f3e1901334a340b7[m[33m ([m[1;31mDatabase/master[m[33m)[m
+Author: sorows22 <sorows22@gmail.com>
+Date:   Mon Jul 31 12:47:38 2017 +0800
+
+    nah ini..
+    
+    ini yang gw suka
+
+[33mcommit a878990f4be1df5f2e6e88d0c7a4b1c1fa9eada4[m
+Author: ratatouile <hammerhunter0@gmail.com>
+Date:   Sun Jul 30 16:46:31 2017 +0800
+
+    update
+
+[33mcommit 7e59810f68ba3b4166d3756c4d30b25039982c22[m
+Author: ratatouile <hammerhunter0@gmail.com>
+Date:   Sun Jul 30 16:42:30 2017 +0800
+
+    download yang baru
+
+[33mcommit 463063d6381f1df547cfada5bb2da7730510008d[m
+Author: sorows22 <sorows22@gmail.com>
+Date:   Sat Jul 29 07:46:11 2017 +0000
+
+    DELTE
+
+[33mcommit 6bc08ae440d2d1e2df45210627e51f9241f23ac2[m
+Author: ratatouile <hammerhunter0@gmail.com>
+Date:   Wed Jul 26 18:17:07 2017 +0800
+
+    update
+
+[33mcommit fbba93085c126faba950ecd98426eebd84cedade[m
+Author: ratatouile <hammerhunter0@gmail.com>
+Date:   Wed Jul 26 17:48:04 2017 +0800
+
+    update
+
+[33mcommit b739bdfcab00da714d7f0e2f212658fd87965acf[m
+Merge: a82e664 eda8916
+Author: ratatouile <30378566+Ratatouile@users.noreply.github.com>
+Date:   Thu Jul 27 10:43:09 2017 +0800
+
+    Merge pull request #2 from sorows22/master
+    
+    rename  db link
+
+[33mcommit eda89163d470e264acea4b8f0e4814b41e63a5b0[m
+Author: Unknown <sorows22@gmail.com>
+Date:   Wed Jul 26 23:57:31 2017 +0800
+
+    rename
+
+[33mcommit a82e66492cd6b7b47f648ddc2baf3d23de269137[m
+Author: sorows22 <sorows22@gmail.com>
+Date:   Wed Jul 26 23:33:42 2017 +0800
+
+    Delete index.php
+
+[33mcommit df2cd7df806f1e21abce3bd37825528d04121497[m
+Author: sorows22 <sorows22@gmail.com>
+Date:   Wed Jul 26 23:30:11 2017 +0800
+
+    Create index.php
+
+[33mcommit d1816f89d2b3cb914664e5290d6cc1eb18a89613[m
+Author: ratatouile <hammerhunter0@gmail.com>
+Date:   Tue Jul 25 16:44:13 2017 +0800
+
+    upload data
